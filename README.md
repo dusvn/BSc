@@ -1,4 +1,3 @@
-# BSc
-![User Interface](ApiUI.png)
-[Data Preparation](Preparation.ipynb)
+#[Data Preparation](Preparation.ipynb)
 [Neural network architecture](NeuralNetworkArchitecture.ipynb)
+![User Interface](ApiUI.png)
